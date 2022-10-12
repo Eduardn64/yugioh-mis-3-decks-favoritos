@@ -32,7 +32,7 @@
   
   <br>
  
-    <p>Es un basado en el robo de cartas para despues realizar la invocacion de Monstuos pendulo<br>
+    <p>Es deck un basado en el robo de cartas para despues realizar la invocacion de Monstuos pendulo<br>
     donde su objetivo es invocar a ODD-EYES VORTEX DRAGON con la ayuda de la carta principal<br> 
     ODD-EYES ARC PENDULUM DRAGON y apoyandose con la ayuda de el arqueotipo ENDYMION<br>
     el cual te ayudara a convocar mas monstruos que puedan ayudarte a generar control sobre<br>
